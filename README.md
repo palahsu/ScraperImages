@@ -7,7 +7,7 @@ Simple Web Images Scraper!
 - Python
 
 ## How to use?
-Open Command Prompt & Type this commands:
+Open Command Prompt & Type this commands :
 
 `pip install requirments`
 
