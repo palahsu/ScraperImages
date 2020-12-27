@@ -17,7 +17,7 @@ Open Command Prompt & Type this commands :
 
 ## It's Support Only Google Images!
 
-Note: You Can Modify it.
+Note: You Can Modify it. Thanks!
 
 ## For more help join Telegram Group :
 
