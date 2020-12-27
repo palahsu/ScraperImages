@@ -13,6 +13,8 @@ Open Command Prompt & Type this command:
 
 `python Scraperimages.py`
 
+(You Can Use it on Terminal)
+
 ## It's Support Only Google Images!
 
 ## For more help join Telegram Group:
